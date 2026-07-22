@@ -1,4 +1,6 @@
 .env
 venv/
-.venv_flask/
 .venv/
+.venv_flask/
+__pycache__/
+storage/
